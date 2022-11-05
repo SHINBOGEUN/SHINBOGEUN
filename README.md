@@ -1,4 +1,4 @@
-<span style="color:yellow">노란 글씨입니다.</span>
+<h1>책임감 있는 개발자</h1>
 
 <div align=center><h1>📚STACKS</h1></div>
 <div align=center> 
