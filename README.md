@@ -1,4 +1,4 @@
-<span style="color:red"> 글씨색 변경 </span>
+<span style="color:yellow">노란 글씨입니다.</span>
 
 <div align=center><h1>📚STACKS</h1></div>
 <div align=center> 
