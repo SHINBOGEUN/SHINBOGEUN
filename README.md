@@ -19,7 +19,7 @@
   <br>
 </div>
 <hr>
-[Notion](https://www.notion.so/149266ada62440a8adb7d8db2c998b6b) 
+[Notion]([http:naver.com](https://www.notion.so/149266ada62440a8adb7d8db2c998b6b))
 
 <br>
 <br>
