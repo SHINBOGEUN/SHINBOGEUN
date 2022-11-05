@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ShinBoGeun&fontSize=90" />
 
-<div align=center>📚STACKS</div>
+<div align=center><h1>📚STACKS</h1></div>
+<br>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -19,5 +20,5 @@
 </div>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbg03202@naver.com&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHINBOGEUN&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=SHINBOGEUN&show_icons=true">
