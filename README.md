@@ -23,6 +23,6 @@
 <br>
 <br>
 <br>
-
+<hr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHINBOGEUN&layout=compact&theme=radical">
 <img src="https://github-readme-stats.vercel.app/api?username=SHINBOGEUN&show_icons=true&theme=radical">
