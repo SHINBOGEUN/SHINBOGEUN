@@ -1,4 +1,4 @@
-<h1 style="text-align:center">책임감 있는 개발자</h1>
+<h1 align=center>책임감 있는 개발자</h1>
 
 <div align=center><h1>📚STACKS</h1></div>
 <div align=center> 
