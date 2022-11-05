@@ -1,6 +1,4 @@
-<span style="color:red">Red Text</span>
-
-
+<span style="color:red"> 글씨색 변경 </span>
 
 <div align=center><h1>📚STACKS</h1></div>
 <div align=center> 
