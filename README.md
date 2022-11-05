@@ -1,4 +1,4 @@
-<span style="background-color:red">Red Text</span>
+<span style="color:red">Red Text</span>
 
 
 
