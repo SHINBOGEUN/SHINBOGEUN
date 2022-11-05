@@ -19,7 +19,8 @@
   <br>
 </div>
 <hr>
-<img src="https://img.shields.io/badge/notion-000000?style=flat&logo=Java&logoColor=white" />
+Notion : <https://www.notion.so/149266ada62440a8adb7d8db2c998b6b>
+
 <br>
 <br>
 <br>
