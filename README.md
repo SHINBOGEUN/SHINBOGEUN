@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ShinBoGeun&fontSize=90" />
 
-<div align=center><h1>📚STACKS</h1></div>
+<h3 align="center">📚 Tech Stack 📚</h3>
 <br>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
