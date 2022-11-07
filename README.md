@@ -18,11 +18,12 @@
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
   <br>
 </div>
+https://www.notion.so/149266ada62440a8adb7d8db2c998b6b
 <br>
 <br>
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
+  <a href="https://www.notion.so/149266ada62440a8adb7d8db2c998b6b"><img src="https://img.shields.io/badge/Notion-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://www.notion.so/149266ada62440a8adb7d8db2c998b6b"/></a>&nbsp
   <a href="mailto:sbg03202@naver.com"><img src="https://img.shields.io/badge/NAVER-11B48A?style=flat-square&logo=Naver&logoColor=white&link=sbg03202@naver.com"/></a>
 </p>
 <hr>
