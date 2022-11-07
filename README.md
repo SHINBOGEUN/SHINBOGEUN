@@ -22,7 +22,7 @@
 <br>
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href="https://www.notion.so/149266ada62440a8adb7d8db2c998b6b"><img src="https://img.shields.io/badge/Notion-11B48A?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/149266ada62440a8adb7d8db2c998b6b"/></a>&nbsp
+  <a href="https://www.notion.so/149266ada62440a8adb7d8db2c998b6b"><img src="https://img.shields.io/badge/Notion-092E20?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/149266ada62440a8adb7d8db2c998b6b"/></a>&nbsp
   <a href="mailto:sbg03202@naver.com"><img src="https://img.shields.io/badge/NAVER-11B48A?style=flat-square&logo=Naver&logoColor=white&link=sbg03202@naver.com"/></a>
 </p>
 <hr>
